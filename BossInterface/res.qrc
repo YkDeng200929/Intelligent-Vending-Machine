@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/ctl/cart.png</file>
+        <file>res/ctl/coin.png</file>
+        <file>res/ctl/list.png</file>
+        <file>res/ctl/log.png</file>
+        <file>res/ctl/shop.png</file>
+        <file>res/default/bg.png</file>
+    </qresource>
+</RCC>

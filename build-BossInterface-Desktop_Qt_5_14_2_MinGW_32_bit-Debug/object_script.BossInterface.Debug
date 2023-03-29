@@ -1,0 +1,10 @@
+debug/qrc_res.o
+debug/main.o
+debug/BossLogin.o
+debug/NetManager.o
+debug/Goods_Frame.o
+debug/qcustomplot.o
+debug/moc_BossLogin.o
+debug/moc_NetManager.o
+debug/moc_Goods_Frame.o
+debug/moc_qcustomplot.o

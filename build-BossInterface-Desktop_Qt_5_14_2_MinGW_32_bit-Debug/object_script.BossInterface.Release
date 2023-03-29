@@ -1,0 +1,10 @@
+release/qrc_res.o
+release/main.o
+release/BossLogin.o
+release/NetManager.o
+release/Goods_Frame.o
+release/qcustomplot.o
+release/moc_BossLogin.o
+release/moc_NetManager.o
+release/moc_Goods_Frame.o
+release/moc_qcustomplot.o
