@@ -1,4 +1,4 @@
-# [Intelligent-Vending-Machine(请点我)](https://gitee.com/yk-deng/intelligent_-vending_-machine/settings#function)
+# [Intelligent-Vending-Machine(请点我)](https://gitee.com/yk-deng/intelligent_-vending_-machine/)
 ## 效果展示
 ## 用户交互界面
 ### 1. 用户主界面
