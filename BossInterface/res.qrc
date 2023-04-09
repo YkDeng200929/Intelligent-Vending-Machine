@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/drink/baisuishan.png</file>
+        <file>res/drink/beinasong.png</file>
+        <file>res/drink/bingtangxueli.png</file>
+        <file>res/drink/jiaduobao.png</file>
+        <file>res/drink/lankele.png</file>
+        <file>res/drink/lingdukele.png</file>
+        <file>res/drink/lvcha.png</file>
+        <file>res/drink/meinianda.png</file>
+        <file>res/drink/nongfushanquan.png</file>
+        <file>res/drink/quechaokafei.png</file>
+        <file>res/drink/wangzai.png</file>
+        <file>res/drink/xiaomingtongxue.png</file>
+        <file>res/drink/yanmai.png</file>
+        <file>res/drink/yibao.png</file>
+        <file>res/fruit/apple.png</file>
+        <file>res/fruit/banana.png</file>
+        <file>res/fruit/blueberry.png</file>
+        <file>res/fruit/grape.png</file>
+        <file>res/fruit/greengrape.png</file>
+        <file>res/fruit/lemon.png</file>
+        <file>res/fruit/mango.png</file>
+        <file>res/fruit/orange.png</file>
+        <file>res/fruit/peach.png</file>
+        <file>res/fruit/strawberry.png</file>
+        <file>res/default/bg.png</file>
+        <file>res/BOSS.png</file>
+    </qresource>
+</RCC>
